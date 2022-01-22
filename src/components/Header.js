@@ -40,9 +40,9 @@ const HeaderHome = (props) => {
           <NavLinks />
         </div>
         <div className="main-nav__right">
-          <a href="/contact.js" className={`thm-btn ${props.btnClass}`}>
-            <span>Contact Us</span>
-          </a>
+          <Link to="/contact" className={`thm-btn ${props.btnClass}`}> 
+            Contact Us
+          </Link>
         </div>
       </div>
     </header>
