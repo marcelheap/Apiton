@@ -53,6 +53,9 @@ const Banner = () => {
         <div className="row">
           <div className="col-lg-7">
             <div className="banner-one__content">
+              <h4>
+                Top-Rated
+              </h4>
               <h3>
                Development &<br /> Marketing <br /> Agency
               </h3>
