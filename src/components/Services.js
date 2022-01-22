@@ -8,7 +8,7 @@ const Services = () => {
         <BlockTitle
           textAlign="center"
           paraText="Feature List"
-          titleText={`Appton Providing You \n Best Features`}
+          titleText={`MarcelHeap Providing You \n Full-Length Service`}
         />
         <div className="row">
           <div className="col-lg-3 col-md-6">
@@ -18,8 +18,8 @@ const Services = () => {
                 <div className="service-one__icon">
                   <i className="apton-icon-computer-graphic"></i>
                 </div>
-                <h3>Easy to Edit</h3>
-                <p>Lorem ipsum is are many variations of pass majy.</p>
+                <h3>Design</h3>
+                <p>Discover our design services.</p>
               </div>
             </div>
           </div>
@@ -30,8 +30,8 @@ const Services = () => {
                 <div className="service-one__icon">
                   <i className="apton-icon-development"></i>
                 </div>
-                <h3>Fully Secure</h3>
-                <p>Lorem ipsum is are many variations of pass majy.</p>
+                <h3>Web Development</h3>
+                <p>Discover our web development services.</p>
               </div>
             </div>
           </div>
@@ -42,8 +42,8 @@ const Services = () => {
                 <div className="service-one__icon">
                   <i className="apton-icon-development1"></i>
                 </div>
-                <h3>Manage User</h3>
-                <p>Lorem ipsum is are many variations of pass majy.</p>
+                <h3>Mobile App Development</h3>
+                <p>Discover our mobile app development services.</p>
               </div>
             </div>
           </div>
@@ -54,8 +54,8 @@ const Services = () => {
                 <div className="service-one__icon">
                   <i className="apton-icon-responsive"></i>
                 </div>
-                <h3>Free Trial</h3>
-                <p>Lorem ipsum is are many variations of pass majy.</p>
+                <h3>Digital Marketing</h3>
+                <p>Discover our digital marketing services.</p>
               </div>
             </div>
           </div>
