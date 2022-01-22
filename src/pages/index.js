@@ -30,10 +30,9 @@ const HomePage = () => (
       <Banner />
       <Services />
       <CTAOne />
-      <FunFact />
       <CTATwo />
+      <FunFact />
       <Testimonials />
-      <Clients />
       <AppScreen />
       <CTAThree />
       <Footer />
