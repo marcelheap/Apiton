@@ -45,9 +45,9 @@ const Banner = () => {
         <div className="row">
           <div className="col-lg-7">
             <div className="banner-one__content">
-              <h4>
-                Top-Rated
-              </h4>
+                <button className="thm-btn banner-one__mc-btn">
+                  <span>Top-Rated</span>
+                </button>  
               <h3>
                Development &<br /> Marketing <br /> Agency
               </h3>
