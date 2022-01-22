@@ -32,15 +32,9 @@ const HomePage = () => (
       <CTAOne />
       <FunFact />
       <CTATwo />
-      <Pricing />
       <Testimonials />
       <Clients />
-      <Team />
-      <VideoOne />
       <AppScreen />
-      <FAQ />
-      <BlogHome />
-      <Contact />
       <CTAThree />
       <Footer />
     </Layout>
