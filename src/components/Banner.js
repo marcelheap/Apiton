@@ -59,7 +59,7 @@ const Banner = () => {
               >
                 <input type="text" name="email" placeholder="Email address" />
                 <button type="submit" className="thm-btn banner-one__mc-btn">
-                  <span>Contact Us</span>
+                  <span>Contact</span>
                 </button>
               </form>
               <div className="mc-form__response"></div>
