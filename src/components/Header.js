@@ -41,7 +41,7 @@ const HeaderHome = (props) => {
         </div>
         <div className="main-nav__right">
           <a href="#none" className={`thm-btn ${props.btnClass}`}>
-            <span>Download App</span>
+            <span>Contact Us</span>
           </a>
         </div>
       </div>
