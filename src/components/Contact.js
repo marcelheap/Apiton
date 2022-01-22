@@ -5,11 +5,6 @@ import ContactImage from "../assets/images/resources/contact-1-1.jpg";
 
 const Contact = () => {
   return (
-    <p>
-    <br />
-    <br />
-    <br />
-    </p>
     <section className="contact-one">
       <img
         src={ContactBgShape}
@@ -22,8 +17,8 @@ const Contact = () => {
             <form className="contact-form-validated contact-one__form">
               <BlockTitle
                 textAlign="left"
-                paraText="Contact Now"
-                titleText={`Have Question? Write \n a Message`}
+                paraText=""
+                titleText={`Let's Work Together! \n Contact Us Below`}
               />
               <div className="row">
                 <div className="col-lg-6">
