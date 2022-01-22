@@ -21,7 +21,7 @@ const NavLinks = () => {
           offset={-70}
           duration={500}
         >
-          Features
+          Services
         </ScrollLink>
       </li>
       <li>
@@ -57,11 +57,11 @@ const NavLinks = () => {
           offset={-70}
           duration={500}
         >
-          Screens
+          Projects
         </ScrollLink>
       </li>
       <li className="dropdown">
-        <Link to="/blog">News</Link>
+        <Link to="/blog">Blogs</Link>
         <i
           className="fa fa-angle-down"
           onKeyDown={handleDropdownStatus}
@@ -72,10 +72,10 @@ const NavLinks = () => {
         ></i>
         <ul className={dropdownStatus === true ? "active" : null}>
           <li>
-            <Link to="/blog">News</Link>
+            <Link to="/blog">Blogs</Link>
           </li>
           <li>
-            <Link to="/blog-post">News Details</Link>
+            <Link to="/blog-post">News</Link>
           </li>
         </ul>
       </li>
