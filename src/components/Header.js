@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import NavLinks from "./NavLinks";
+import { Link } from "gatsby";
 
 import LogoImage from "../assets/images/logo-1-1.png";
 
