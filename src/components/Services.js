@@ -42,7 +42,7 @@ const Services = () => {
                 <div className="service-one__icon">
                   <i className="apton-icon-development1"></i>
                 </div>
-                <h3>Mobile App Development</h3>
+                <h3>Digital Marketing</h3>
                 <p>Discover our digital marketing services.</p>
               </div>
             </div>
@@ -54,8 +54,8 @@ const Services = () => {
                 <div className="service-one__icon">
                   <i className="apton-icon-responsive"></i>
                 </div>
-                <h3>Digital Marketing</h3>
-                <p>Discover our digital marketing services.</p>
+                <h3>Mobile App Development</h3>
+                <p>Discover our mobile app development services.</p>
               </div>
             </div>
           </div>
