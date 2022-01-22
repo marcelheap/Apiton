@@ -33,15 +33,7 @@ const Banner = () => {
           videoId="Kl5B6MBAntI"
           onClose={() => setOpen({ isOpen: false })}
         />
-        <div
-          onClick={openModal}
-          onKeyDown={openModal}
-          role="button"
-          tabIndex="0"
-          className="banner-one__video video-popup"
-        >
-          <i className="fa fa-play"></i>
-        </div>
+        
         <div className="banner-one__moc">
           <img
             src={BannerMoc}
