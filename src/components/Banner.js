@@ -53,16 +53,6 @@ const Banner = () => {
         <div className="row">
           <div className="col-lg-7">
             <div className="banner-one__content">
-              <form
-                className="banner-one__mc-form mc-form"
-                data-url="MAILCHIMP__POPUP__FORM__URL"
-              >
-                <input type="text" name="email" placeholder="Email address" />
-                <button type="submit" className="thm-btn banner-one__mc-btn">
-                  <span>Free Trial</span>
-                </button>
-              </form>
-              <div className="mc-form__response"></div>
               <h3>
                Development &<br /> Marketing <br /> Agency
               </h3>
