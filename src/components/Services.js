@@ -7,7 +7,7 @@ const Services = () => {
       <div className="container">
         <BlockTitle
           textAlign="center"
-          paraText="Feature List"
+          paraText="Our Services"
           titleText={`MarcelHeap Providing You \n Full-Length Service`}
         />
         <div className="row">
