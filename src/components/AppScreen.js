@@ -51,8 +51,8 @@ const AppScreen = (props) => {
       <Container fluid>
         <BlockTitle
           textAlign="center"
-          paraText="Application Screenshots"
-          titleText={`Checkout Our Application \n Interface Look`}
+          paraText="Work"
+          titleText={`Checkout Our Projects`}
         />
         <div className="app-shot-one__carousel">
           <Swiper {...params}>
