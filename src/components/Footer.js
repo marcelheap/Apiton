@@ -35,8 +35,8 @@ const Footer = () => {
                     <img src={FooterLogo} width="129" alt="awesome post" />
                   </a>
                   <p>
-                    Be it the design, development, or <br>
-                    digital marketing, MarcelHeap is the <br>
+                    Be it the design, development, or <br />
+                    digital marketing, MarcelHeap is the <br />
                     first choice for all! 
                   </p>
                 </div>
