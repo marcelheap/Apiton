@@ -43,7 +43,7 @@ const Services = () => {
                   <i className="apton-icon-development1"></i>
                 </div>
                 <h3>Mobile App Development</h3>
-                <p>Discover our mobile app development services.</p>
+                <p>Discover our digital marketing services.</p>
               </div>
             </div>
           </div>
