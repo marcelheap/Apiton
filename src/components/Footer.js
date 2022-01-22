@@ -35,9 +35,9 @@ const Footer = () => {
                     <img src={FooterLogo} width="129" alt="awesome post" />
                   </a>
                   <p>
-                    Lorem Ipsum is simply dummy text the <br /> printing and
-                    setting industry. Lorm Ipsum
-                    <br /> has been the text ever.
+                    Be it the design, development, or <br>
+                    digital marketing, MarcelHeap is the <br>
+                    first choice for all! 
                   </p>
                 </div>
               </div>
@@ -100,16 +100,16 @@ const Footer = () => {
               <div className="col-lg-3 d-flex align-items-center justify-content-xl-end justify-content-lg-end justify-content-md-center justify-content-sm-center">
                 <div className="footer-widget">
                   <div className="footer-widget__social">
-                    <a href="#none">
+                    <a href="https://www.facebook.com/MarcelHeap/">
                       <i className="fab fa-facebook-square"></i>
                     </a>
-                    <a href="#none">
+                    <a href="https://twitter.com/MarcelHeap/">
                       <i className="fab fa-twitter"></i>
                     </a>
-                    <a href="#none">
+                    <a href="https://www.instagram.com/Marcel.Heap/">
                       <i className="fab fa-instagram"></i>
                     </a>
-                    <a href="#none">
+                    <a href="https://www.pinterest.com/marcelheap/">
                       <i className="fab fa-pinterest-p"></i>
                     </a>
                   </div>
@@ -120,7 +120,7 @@ const Footer = () => {
         </div>
         <div className="site-footer__bottom">
           <div className="container text-center">
-            <p>© copyright 2020 by Layerdrops.com</p>
+            <p>© Copyright 2022 | MarcelHeap</p>
           </div>
         </div>
       </footer>
