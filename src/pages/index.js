@@ -21,7 +21,7 @@ import Testimonials from "../components/Testimonials";
 
 const HomePage = () => (
   <div>
-    <Layout pageTitle="Apiton | Home Page">
+    <Layout pageTitle="MarcelHeap | Top-Rated Development & Marketing Agency">
       <Header
         btnClass="main-nav__btn"
         extraClassName="site-header-one__fixed-top"
