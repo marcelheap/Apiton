@@ -25,7 +25,7 @@ const FunFact = () => {
                   offset={{ top: 10 }}
                   delayedCall
                 >
-                  <CountUp end={counter.startCounter ? 2 : 0} />+
+                  <CountUp end={counter.startCounter ? 2 : 0} />
                 </VisibilitySensor>
               </h3>
               <p>Years</p>
@@ -39,7 +39,7 @@ const FunFact = () => {
                   offset={{ top: 10 }}
                   delayedCall
                 >
-                  <CountUp end={counter.startCounter ? 40 : 0} />+
+                  <CountUp end={counter.startCounter ? 40 : 0} />
                 </VisibilitySensor>
               </h3>
               <p>Projects</p>
@@ -53,7 +53,7 @@ const FunFact = () => {
                   offset={{ top: 10 }}
                   delayedCall
                 >
-                  <CountUp end={counter.startCounter ? 30 : 0} />+
+                  <CountUp end={counter.startCounter ? 30 : 0} />
                 </VisibilitySensor>
               </h3>
               <p>Satisfied Clients</p>
@@ -67,7 +67,7 @@ const FunFact = () => {
                   offset={{ top: 10 }}
                   delayedCall
                 >
-                  <CountUp end={counter.startCounter ? 170 : 0} />%
+                  <CountUp end={counter.startCounter ? 170 : 0} />
                 </VisibilitySensor>
               </h3>
               <p>Increase in ROI</p>
