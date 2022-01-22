@@ -27,30 +27,6 @@ const NavLinks = () => {
       <li>
         <ScrollLink
           activeClass="current"
-          to="pricing"
-          spy={true}
-          smooth={true}
-          offset={-70}
-          duration={500}
-        >
-          Pricing
-        </ScrollLink>
-      </li>
-      <li>
-        <ScrollLink
-          activeClass="current"
-          to="team"
-          spy={true}
-          smooth={true}
-          offset={-70}
-          duration={500}
-        >
-          Team
-        </ScrollLink>
-      </li>
-      <li>
-        <ScrollLink
-          activeClass="current"
           to="screens"
           spy={true}
           smooth={true}
