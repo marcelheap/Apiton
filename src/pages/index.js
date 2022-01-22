@@ -32,8 +32,8 @@ const HomePage = () => (
       <CTAOne />
       <CTATwo />
       <FunFact />
-      <Testimonials />
       <AppScreen />
+      <Testimonials />
       <CTAThree />
       <Footer />
     </Layout>
