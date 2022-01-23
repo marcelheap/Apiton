@@ -48,6 +48,9 @@ const Banner = () => {
                 <button className="thm-btn banner-one__mc-btn">
                   <span>Top-Rated</span>
                 </button>  
+                <h3>
+                Design, 
+                </h3>
               <h3>
                Development &<br /> Marketing <br /> Agency
               </h3>
