@@ -1,5 +1,6 @@
 import React from "react";
 import BlockTitle from "./BlockTitle";
+import { Link } from "gatsby"
 
 const Services = () => {
   return (
@@ -11,6 +12,7 @@ const Services = () => {
           titleText={`MarcelHeap Providing You \n Full-Length Service`}
         />
         <div className="row">
+          <Link to="/design">
           <div className="col-lg-3 col-md-6">
             <div className="service-one__single">
               <div className="service-one__inner">
@@ -23,7 +25,9 @@ const Services = () => {
               </div>
             </div>
           </div>
-          <div className="col-lg-3 col-md-6">
+          </Link>
+          <Link to="/web-development"> 
+            <div className="col-lg-3 col-md-6">
             <div className="service-one__single">
               <div className="service-one__inner">
                 <div className="service-one__circle"></div>
@@ -35,6 +39,8 @@ const Services = () => {
               </div>
             </div>
           </div>
+        </Link>
+        <Link to="/digital-marketing">
           <div className="col-lg-3 col-md-6">
             <div className="service-one__single">
               <div className="service-one__inner">
@@ -47,6 +53,8 @@ const Services = () => {
               </div>
             </div>
           </div>
+        </Link>
+        <Link to="/mobile-app-development">
           <div className="col-lg-3 col-md-6">
             <div className="service-one__single">
               <div className="service-one__inner">
@@ -59,6 +67,7 @@ const Services = () => {
               </div>
             </div>
           </div>
+        </Link>
         </div>
       </div>
     </section>
